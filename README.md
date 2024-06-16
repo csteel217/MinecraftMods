@@ -70,20 +70,6 @@ Restart Minecraft to load the new mod.
 **Mod Not Working:** Verify that the mod file is placed correctly in the mods folder. Ensure that the mod is compatible with your Minecraft and Forge versions.
 **Other Issues:** Check the Minecraft and Forge logs located in the logs folder in your Minecraft directory for detailed error messages.
 
-## Contributing
-
-We welcome contributions from everyone. Here’s how you can help:
-
-Fork the Repository
-
-Create a New Branch
-
-Make Your Changes
-
-Submit a Pull Request
-
-Please make sure your contributions adhere to our coding standards and include tests where applicable.
-
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
