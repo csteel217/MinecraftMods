@@ -67,7 +67,9 @@ Restart Minecraft to load the new mod.
 ## Troubleshooting
 
 **Minecraft Crashes on Startup:** Ensure that all mods are compatible with the version of Forge you have installed. Check the mod documentation for version compatibility.
+
 **Mod Not Working:** Verify that the mod file is placed correctly in the mods folder. Ensure that the mod is compatible with your Minecraft and Forge versions.
+
 **Other Issues:** Check the Minecraft and Forge logs located in the logs folder in your Minecraft directory for detailed error messages.
 
 ## License
