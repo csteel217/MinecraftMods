@@ -60,9 +60,9 @@ Start Minecraft with the Forge profile selected. Your mods should now be loaded 
 
 To add a mod to your Minecraft installation, follow these steps:
 
-Download the mod file (a .jar file) from a trusted source.
-Place the downloaded .jar file into the mods folder in your Minecraft directory.
-Restart Minecraft to load the new mod.
+* Download the mod file (a .jar file) from a trusted source.
+* Place the downloaded .jar file into the mods folder in your Minecraft directory.
+* Restart Minecraft to load the new mod.
 
 ## Troubleshooting
 
@@ -77,5 +77,7 @@ Restart Minecraft to load the new mod.
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Feel free to reach out if you have any questions or need further assistance. Happy modding! 🎮
+
+---
 
 Note: This readme assumes you have basic knowledge of using the command line and managing files on your operating system. If you need further assistance, there are many tutorials available online to help you get started.
