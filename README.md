@@ -4,13 +4,12 @@
 
 **Table of Contents**
 
-* [Prerequisites](https://github.com/csteel217/MinecraftMods/new/main?filename=README.md#prerequisites)
-* [Installation](https://github.com/csteel217/MinecraftMods/new/main?filename=README.md#installation)
-* [Usage](https://github.com/csteel217/MinecraftMods/new/main?filename=README.md#usage)
-* [Adding Mods](https://github.com/csteel217/MinecraftMods/new/main?filename=README.md#adding-mods)
-* [Troubleshooting](https://github.com/csteel217/MinecraftMods/new/main?filename=README.md#troubleshooting)
-* [Contributing](https://github.com/csteel217/MinecraftMods/new/main?filename=README.md#contributing)
-* [License](https://github.com/csteel217/MinecraftMods/new/main?filename=README.md#license)
+* [Prerequisites](https://github.com/csteel217/MinecraftMods?tab=readme-ov-file#prerequisites)
+* [Installation](https://github.com/csteel217/MinecraftMods?tab=readme-ov-file#installation)
+* [Usage](https://github.com/csteel217/MinecraftMods?tab=readme-ov-file#usage)
+* [Adding Mods](https://github.com/csteel217/MinecraftMods?tab=readme-ov-file#adding-mods)
+* [Troubleshooting](https://github.com/csteel217/MinecraftMods?tab=readme-ov-file#troubleshooting)
+* [License](https://github.com/csteel217/MinecraftMods?tab=readme-ov-file#license)
 
 ## Prerequisites
 
