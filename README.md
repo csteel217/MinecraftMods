@@ -1,8 +1,12 @@
 # Minecraft Mod Loader
 
-## Welcome to the Minecraft Mod Loader repository! This project provides a simple way to manage and load mods for Minecraft. Follow the instructions below to set up your environment and start playing with your favorite mods.
+Welcome to the Minecraft Mod Loader repository!
 
-**Table of Contents**
+This project provides a simple way to manage and load mods for Minecraft.
+
+Follow the instructions below to set up your environment and start playing with your favorite mods.
+
+## Table of Contents
 
 * [Prerequisites](https://github.com/csteel217/MinecraftMods?tab=readme-ov-file#prerequisites)
 * [Installation](https://github.com/csteel217/MinecraftMods?tab=readme-ov-file#installation)
