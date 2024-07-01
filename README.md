@@ -1,8 +1,12 @@
 # Minecraft Mod Loader
 
-## Welcome to the Minecraft Mod Loader repository! This project provides a simple way to manage and load mods for Minecraft. Follow the instructions below to set up your environment and start playing with your favorite mods.
+Welcome to the Minecraft Mod Loader repository!
 
-**Table of Contents**
+This project provides a simple way to manage and load mods for Minecraft.
+
+Follow the instructions below to set up your environment and start playing with your favorite mods.
+
+## Table of Contents
 
 * [Prerequisites](https://github.com/csteel217/MinecraftMods?tab=readme-ov-file#prerequisites)
 * [Installation](https://github.com/csteel217/MinecraftMods?tab=readme-ov-file#installation)
@@ -60,14 +64,16 @@ Start Minecraft with the Forge profile selected. Your mods should now be loaded 
 
 To add a mod to your Minecraft installation, follow these steps:
 
-Download the mod file (a .jar file) from a trusted source.
-Place the downloaded .jar file into the mods folder in your Minecraft directory.
-Restart Minecraft to load the new mod.
+* Download the mod file (a .jar file) from a trusted source.
+* Place the downloaded .jar file into the mods folder in your Minecraft directory.
+* Restart Minecraft to load the new mod.
 
 ## Troubleshooting
 
 **Minecraft Crashes on Startup:** Ensure that all mods are compatible with the version of Forge you have installed. Check the mod documentation for version compatibility.
+
 **Mod Not Working:** Verify that the mod file is placed correctly in the mods folder. Ensure that the mod is compatible with your Minecraft and Forge versions.
+
 **Other Issues:** Check the Minecraft and Forge logs located in the logs folder in your Minecraft directory for detailed error messages.
 
 ## License
@@ -75,5 +81,7 @@ Restart Minecraft to load the new mod.
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Feel free to reach out if you have any questions or need further assistance. Happy modding! 🎮
+
+---
 
 Note: This readme assumes you have basic knowledge of using the command line and managing files on your operating system. If you need further assistance, there are many tutorials available online to help you get started.
